@@ -60,7 +60,7 @@ Here is the link to **Mock Interview**:
 Demonstrates my ability to build and maintain professional connections through online platforms such as LinkedIn. Highlights awareness of networking etiquette and personal branding.  
 
 Here is the link to **Professional Networking**:  
-[Professional Networking](https://github.com/SamkelisiweKhanyile/Digital-Portfolio-S.SKhanyile/blob/main/Professional%20Networking.png)
+[Professional Networking](https://github.com/SamkelisiweKhanyile/DIGITAL-PORTFOLIO-Samkelisiwe-Sithabile-Khanyile-/blob/d22c427be3c9ec764e9e98d18d37e9b98ef21f8f/Professional%20Networking.png)
 
 ### STAR Reflection  
 **Situation:** As part of developing my employability, I needed to create and optimize a professional LinkedIn profile.  
