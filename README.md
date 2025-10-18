@@ -26,7 +26,7 @@ Here is the link to **Business Communication**:
 Demonstrates preparation and awareness of key communication strategies needed for job interviews, including self-presentation, clarity, and confidence.  
 
 Here is the link to **Interview Skills**:  
-[Interview Skills](https://github.com/SamkelisiweKhanyile/Digital-Portfolio-S.SKhanyile/blob/main/Interview%20Skills.png)
+[Interview Skills](https://github.com/SamkelisiweKhanyile/DIGITAL-PORTFOLIO-Samkelisiwe-Sithabile-Khanyile-/blob/278a3758cdf8fac8b8395fdb85d92b47d63047c8/Interview%20Skills.png)
 
 ### STAR Reflection  
 **Situation:** As part of my Work Readiness module, I had to prepare for a mock interview to simulate a real hiring process.  
