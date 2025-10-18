@@ -10,7 +10,7 @@ Welcome to my Digital Portfolio for Work Readiness Training. This collection sho
 Demonstrates my ability to apply formal communication principles in a professional setting. This includes composing structured, clear, and respectful business emails for workplace correspondence.  
 
 Here is the link to **Business Communication**:  
-[Business Communication](https://github.com/SamkelisiweKhanyile/Digital-Portfolio-S.SKhanyile/blob/main/Business%20Communication.png)
+[Business Communication](https://github.com/SamkelisiweKhanyile/DIGITAL-PORTFOLIO-Samkelisiwe-Sithabile-Khanyile-/blob/2b4b0b7b4b52bdf38a0b7372161f2b210843fd2a/Business%20Communication.png)
 
 ### STAR Reflection  
 **Situation:** During the Work Readiness programme, I was required to demonstrate my understanding of professional communication in business contexts.  
