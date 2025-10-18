@@ -42,7 +42,8 @@ Here is the link to **Interview Skills**:
 A simulated interview session designed to assess communication, confidence, and professionalism during an interview setting.  
 
 Here is the link to **Mock Interview**:  
-[Mock Interview](https://github.com/SamkelisiweKhanyile/Digital-Portfolio-S.SKhanyile/blob/main/Mock%20Interview.png)
+[Mock Interview Video ](https://github.com/SamkelisiweKhanyile/DIGITAL-PORTFOLIO-Samkelisiwe-Sithabile-Khanyile-/blob/333f30de6c23d5403b9dc86e5ab36291e9ca5d6e/4F226E36-828D-4A8B-BCAA-BAC289B26354.mov)
+[Interview CV Review]()
 
 ### STAR Reflection  
 **Situation:** I participated in a formal mock interview to evaluate my readiness for real-world job interviews.  
