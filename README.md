@@ -1,3 +1,9 @@
+
+### Introduction
+Welcome to my Digital Portfolio for Work Readiness Training. This collection showcases my journey of personal and professional growth through structured evidence and insightful reflections, following the STAR technique. This portfolio addresses the five key areas required by the CPUT assessment: Business Communication, Interview Skills, Mock Interview, Professional Networking, and Workplace Etiquette. Through this process, I've learned to assess my strengths, recognize areas for improvement, and align myself with industry expectations in IT. This portfolio encapsulates my evolution into a dedicated, reflective, and industry-ready developer, built on authentic experiences with well-organized and clearly explained evidence.
+
+---
+
 ## Business Communication  
 
 ### Evidence  
@@ -75,3 +81,33 @@ Here is the link to **Workplace Etiquette**:
 **Task:** I needed to demonstrate understanding of appropriate communication, teamwork, and ethical conduct within a professional environment.  
 **Action:** I engaged in class discussions, completed workplace scenarios, and reflected on real examples of workplace etiquette, such as punctuality, active listening, and teamwork.  
 **Result:** I developed a clearer understanding of professional expectations in an IT environment. This knowledge will help me integrate effectively into diverse teams and maintain professionalism in future employment settings.  
+
+# Career Development & Future Goals
+
+As a third-year ICT Applications Development student at **Cape Peninsula University of Technology**, I am dedicated to expanding my skills and preparing for a successful career in tech. My learning journey is centered around mastering both front-end and back-end technologies, with a strong emphasis on practical application and industry relevance.
+
+## Current Focus Areas
+
+- **Advanced Mobile Development**
+  Developing scalable Android applications using **Jetpack Compose** and modern design patterns to ensure efficiency and usability.
+
+- **Backend Engineering**
+  Strengthening my expertise in **Java**, API development, and **Firebase integration** to create secure and high-performance solutions.
+
+- **UI/UX Principles**
+  Honing my skills in **Figma** to design intuitive, user-friendly interfaces that align with industry standards and enhance user experience.
+
+## Internship & Industry Readiness
+
+As I approach graduation, I am actively seeking opportunities to apply my knowledge in real-world settings. I am eager to contribute to dynamic teams through **internships in software development, mobile engineering, or database optimization**. These experiences will allow me to refine my skills, collaborate with professionals, and prepare for full-time engagement in the industry.
+
+This journey is not just about learning—it's about growing into a **dedicated, adaptable, and industry-ready developer** with a passion for innovation and problem-solving.
+
+---
+
+## Contact
+
+**Email:**
+*School email* 222843152@mycput.ac.za
+*Personal email* khanyilesthabile14@gmail.com
+**Phone Number:** 0622494254
