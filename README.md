@@ -43,7 +43,8 @@ A simulated interview session designed to assess communication, confidence, and 
 
 Here is the link to **Mock Interview**:  
 [Mock Interview Video ](https://github.com/SamkelisiweKhanyile/DIGITAL-PORTFOLIO-Samkelisiwe-Sithabile-Khanyile-/blob/333f30de6c23d5403b9dc86e5ab36291e9ca5d6e/4F226E36-828D-4A8B-BCAA-BAC289B26354.mov)
-[Interview CV Review]()
+
+[Interview CV Review](https://github.com/SamkelisiweKhanyile/DIGITAL-PORTFOLIO-Samkelisiwe-Sithabile-Khanyile-/blob/6386f748d509183078451a157beaf5907665bfbe/SAMKELISIWE%20SITHABILE%20KHANYILE%20CV%20REVIEW.docx)
 
 ### STAR Reflection  
 **Situation:** I participated in a formal mock interview to evaluate my readiness for real-world job interviews.  
