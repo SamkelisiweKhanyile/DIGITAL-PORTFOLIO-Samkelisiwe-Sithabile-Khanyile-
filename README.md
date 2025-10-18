@@ -76,7 +76,7 @@ Here is the link to **Professional Networking**:
 Shows understanding of professional behaviour, communication, and teamwork in workplace environments. Demonstrates awareness of company culture, respect, and collaboration.  
 
 Here is the link to **Workplace Etiquette**:  
-[Workplace Etiquette](https://github.com/SamkelisiweKhanyile/Digital-Portfolio-S.SKhanyile/blob/main/Workplace%20Etiquette.png)
+[Workplace Etiquette](https://github.com/SamkelisiweKhanyile/DIGITAL-PORTFOLIO-Samkelisiwe-Sithabile-Khanyile-/blob/29feb3c70e29209bc207b98467e134bb98a04453/Workplace%20Etiquette.png)
 
 ### STAR Reflection  
 **Situation:** During Work Readiness training, I was introduced to workplace behaviour and professionalism expectations in the ICT industry.  
