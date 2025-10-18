@@ -109,5 +109,8 @@ This journey is not just about learning—it's about growing into a **dedicated,
 
 **Email:**
 *School email* 222843152@mycput.ac.za
+
 *Personal email* khanyilesthabile14@gmail.com
+
 **Phone Number:** 0622494254
+
